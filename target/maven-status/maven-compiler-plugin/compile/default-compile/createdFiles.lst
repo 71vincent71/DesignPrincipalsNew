@@ -5,6 +5,7 @@ ie\gmit\open\ISPSubscriber.class
 ie\gmit\dependency\Switchable.class
 ie\gmit\segregation\Movable.class
 ie\gmit\open\PhoneSubscriber.class
+ie\gmit\open\Subscriber.class
 ie\gmit\open\InternetSessionHistory.class
 ie\gmit\open\CallHistory.class
 ie\gmit\exercise\JSONFormatter.class
